@@ -13,7 +13,7 @@
 
 <h1 align="center">Merhaba 👋, ben Siestaxd</h1>
 <div align="center">
-<div><img src="https://komarev.com/ghpvc/?username=siestaxd&&label=PROFILE+VIEWS&color=grey"/></div>
+<div><img src="https://komarev.com/ghpvc/?username=siestaxd&&label=PROFILE+VIEWS&color=grey&style=for-the-badge"/></div>
 <div><img src="https://github-profile-trophy.vercel.app/?username=siestaxd&theme=onestar&no-frame=true&margin-w=15&column=7"/></div>
 <img src="https://github-readme-stats.vercel.app/api?username=siestaxd&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siestaxd&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
