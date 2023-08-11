@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://github.com/siestaxd" target"blank_"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,django,mongodb,mysql,vscode,ps"></a>
+<a href="https://github.com/siestaxd" target"blank_"><img src="https://skillicons.dev/icons?i=html,css,py,django,mongodb,mysql,vscode,ps"></a>
 </div>
 
 <h1 align="center">Merhaba 👋, ben Siestaxd</h1>
