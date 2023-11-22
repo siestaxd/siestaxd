@@ -17,7 +17,7 @@ My passion for programming started as a hobby at a young age. It always remained
   <a href="https://discord.com/users/572513937010982961" target="_blank">
     <img src="https://img.shields.io/static/v1?message=siestaxd&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/hamzabln/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=hamzabln&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/hamzabilen/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=hamzabilen&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
