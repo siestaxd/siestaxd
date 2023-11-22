@@ -10,7 +10,7 @@ Hello! 👋 My name is Hamza, and I am a young developer from Turkey. I graduate
 
 My passion for programming started as a hobby at a young age. It always remained a curiosity within me, especially while playing games. As I became less interested in games, I turned my attention to website development. While I am currently interested in photography, I dedicate my spare time to enhancing my skills in software development and constantly learning new things. Recently, I have been increasingly focused on web development and actively seeking to expand my knowledge in this area.
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/hamzablnn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=hamzablnn&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
