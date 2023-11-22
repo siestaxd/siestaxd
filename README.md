@@ -20,7 +20,4 @@ My passion for programming started as a hobby at a young age. It always remained
   <a href="https://www.linkedin.com/in/hamzabln/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=hamzabln&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-   <a href="https://open.spotify.com/user/2lmyi3bure5ovkwbmgjettom5" target="_blank">
-    <img src="https://img.shields.io/badge/Hamza-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="35" alt="Spotify logo"  />
-  </a>
 </div>
